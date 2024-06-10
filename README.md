@@ -1,4 +1,5 @@
 ***Dynamic Weather Web Application***
+
 **Description**
 This is a dynamic weather web application that displays real-time weather information for a specified location. It provides details such as the current temperature, feels-like temperature, location, country, and weather status. The application uses data from the OpenWeather API and displays it in a user-friendly interface with dynamic icons representing the current weather condition.
 
